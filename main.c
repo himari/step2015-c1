@@ -39,7 +39,6 @@ int main(void){
         }
     }
 
-
     printf("longest words is [%s] \n", c_max);
     printf("word count = %d\n", i);
     return 0;
